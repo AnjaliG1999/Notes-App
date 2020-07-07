@@ -1,5 +1,6 @@
 # Notes-App
 Node.js projects created during "The Complete Node.js Developer Course (3rd Edition)" by Andrew Mead
+This app allows users to perform the below mentioned operations.
 
 ## Add a new note
   node app.js add --title="List" --body="Pants"
